@@ -1,0 +1,22 @@
+# Virtual environment 
+venv/ 
+ 
+# API keys 
+.env 
+ 
+# Python cache 
+__pycache__/ 
+*.pyc 
+*.pyo 
+ 
+# Audio files 
+data/audio/*.wav 
+data/audio/*.mp3 
+data/audio/*.m4a 
+data/audio/*.flac 
+ 
+# OS files 
+Thumbs.db 
+ 
+# IDE settings 
+.vscode/ 
